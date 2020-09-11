@@ -155,7 +155,5 @@ def main(grid):
             break
 
 
-# In[5]:
-
 
 main(grid)
