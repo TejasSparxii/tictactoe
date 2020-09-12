@@ -30,3 +30,8 @@ This function is the AI brain of the game. it recursively calls itself and plays
 First, we check whether the current state is terminal and return a score if it is. If it’s not a terminal state, for all possible moves, we make the move, switch players, call minimax with the new board state, add its return value to a list of scores and undo the move.
 After exhausting all possible moves, we will either return the maximum or minimum of our scores list, depending on whether we’re maximizing or minimizing.
 ***Gameplay with AI Vedio link:***[https://drive.google.com/file/d/1NoPzvvqYoZBcufjSB0ElOixFZaH3xvic/view?usp=sharing](https://)
+# **Vanilla version of Reinforcement Learning..**
+A robot takes a big step forward, then falls. The next time, it takes a smaller step and is able to hold its balance. The robot tries variations like this many times; eventually, it learns the right size of steps to take and walks steadily. It has succeeded.
+What we see here is called reinforcement learning. It directly connects a robot’s action with an outcome, without the robot having to learn a complex relationship between its action and results. The robot learns how to walk based on reward (staying on balance) and punishment (falling). This feedback is considered “reinforcement” for doing or not doing an action.
+![](https://i.imgur.com/HK1j22h.png)
+
