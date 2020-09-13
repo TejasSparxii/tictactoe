@@ -1,5 +1,5 @@
 # tictactoe# **Tic Tac Toe AI**
-Tic Tac Toe is a pencil paper game for two players, who takes turn marking the spaces in 3X# grid.The player who succedes in placing three of their marked places in a horizontal, vertical, or a diagonal row wins the game!!!
+Tic Tac Toe is a pencil paper game for two players, who takes turn marking the spaces in 3X3 grid.The player who succedes in placing three of their marked places in a horizontal, vertical, or a diagonal row wins the game!!!
 
 
 ![](https://i.imgur.com/UzPGTaZ.gif)
